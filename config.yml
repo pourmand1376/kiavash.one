@@ -1,23 +1,23 @@
 
-title: تجربه باز
-description: بدون شک من کیاوش هستم، در مورد هیچ چیز دیگری اطمینان ندارم
+title: وبلاگ فارسی من
+description:  
 
-author: Kiavash
-email: kiavash@gmail.com
+author: Amir Pourmand
+email: pourmand1376@gmail.com
 
 timezone: +03:30
 
-url: http://kiavash.one
-root: /
+url: http://pourmand1376.github.io
+root: /blog-fa
 static: /static
 imageurl: /static/images
 
 default_floor: blog
 
-disqus_shortname: kiavash
-google_analytics: UA-114921404-1
+disqus_shortname: pourmand
+google_analytics: 
 
-github_repo: https://github.com/kiamazi/kiavash.one/blob/master/
+github_repo: https://github.com/pourmand1376/blog-fa/blob/master/
 
-twitter: http://twitter.com/kiavash
-github: http://github.com/kiamazi
+twitter: http://twitter.com/AmirPourmand76
+github: http://github.com/pourmand1376
